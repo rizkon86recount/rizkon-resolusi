@@ -3,9 +3,11 @@ RENCANA KONTEN RIZKON
 - Javascript
   * ES6
   * Framework Javascript
-   ^ Angular
-   ^ React
+    ^ Vue
+    ^ React
+- Struktur data dasar
 - PHP Framework
   ^ Laravel
 - Interview
 - Vlogs
+- python
